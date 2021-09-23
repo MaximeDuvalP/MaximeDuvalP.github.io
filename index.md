@@ -21,7 +21,7 @@ On this page, you will find updated information about what I do and possibly whe
 
 ## Where to find me
 
-- [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ) ![youtube-logo](https://user-images.githubusercontent.com/82819388/134488669-050954dd-382e-427d-b8d5-d991d3e72e06.png)
+- [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ) ![youtube-logo](https://user-images.githubusercontent.com/82819388/134488669-050954dd-382e-427d-b8d5-d991d3e72e06.png&s=200)
 - [Twitter](https://twitter.com/rickastley?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 
