@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page
+## Welcome to Maxime's Homepage
 
 You can use the [editor on GitHub](https://github.com/MaximeDuvalP/MaximeDuvalP.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
